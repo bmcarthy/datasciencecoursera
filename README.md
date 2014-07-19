@@ -16,7 +16,7 @@ www.smartlab.ws
 
 The run_analysis.R program is used to combine the test and training datasets to create a single dataset containing all mean and standard deviation measurement columns from the original dataset.  Each row of measurements is linked to the activity name and subject number that generated the data. The measurements were averaged for each activity and subject combination.  The final dataset contains the average of each measurement for each activity and subject combination.  
 
-This program can be run as long as the downloaded dataset has been unzipped into your working directory.
+__This program can be run as long as the downloaded dataset has been unzipped into your working directory.__
 
 The run_analysis.R program uses the following  data extraction and conversion process:
 
