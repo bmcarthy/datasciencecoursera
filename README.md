@@ -38,6 +38,7 @@ The run_analysis.R program uses the following  data extraction and conversion pr
 16.	Convert numeric subject column in the allsorted and sortedagg data frames to factors
 17.	Write the aggregated data frame to a dataset named tidyagg.txt, excluding row names
 
+&nbsp;&nbsp;   
 
 __The following information was provided with the original dataset:__
 
