@@ -170,42 +170,43 @@ Average of the means of the time domain of the body gyroscope jerk signals on th
 __avgTimeBodyGyroJerkMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope jerk signals on the Z axis
 
-__avgTimeBodyGyroJerkStdevX	__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
+__avgTimeBodyGyroJerkStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signals on the X axis
 
-__avgTimeBodyGyroJerkStdevY	__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
+__avgTimeBodyGyroJerkStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signals on the Y axis
 
-avgTimeBodyGyroJerkStdevZ		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signals on the Z axis
 
-avgTimeBodyAccMagMean		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration signal magnitude
 
-avgTimeBodyAccMagStdev		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration signal magnitude 
 
-avgTimeGravityAccMagMean		Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the gravity acceleration signal magnitude
 
-avgTimeGravityAccMagStdev		Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the gravity acceleration signal magnitude
 
-avgTimeBodyAccJerkMagMean		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration jerk signal magnitude
 
-avgTimeBodyAccJerkMagStdev		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration jerk signal magnitude
 
-avgTimeBodyGyroMagMean		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope signal magnitude
 
-avgTimeBodyGyroMagStdev		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope signal magnitude
 
-avgTimeBodyGyroJerkMagMean		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope jerk signal magnitude
-avgTimeBodyGyroJerkMagStdev		Seconds      -99.999999999999999	Numeric
+
+__avgTimeBodyGyroJerkMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signal magnitude
 
 avgFreqBodyAccMeanX		Hz	  -99.999999999999999	Numeric
@@ -326,23 +327,23 @@ Average of the standard deviations of the frequency domain of the body gyroscope
 avgFreqBodyGyroJerkMagMeanFreq		Hz	 -99.999999999999999	Numeric
 Average of the means of the frequency domain of the body gyroscope jerk signal magnitude frequency
 
-avgAngleTimeBodyAccMeangravity		Degrees      -99.999999999999999	Numeric
+__avgAngleTimeBodyAccMeangravity__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean body acceleration and the mean gravity acceleration in the time domain
 
-avgAngleTimeBodyAccJerkMeangravityMean	Degrees      -99.999999999999999	Numeric
+__avgAngleTimeBodyAccJerkMeangravityMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean body jerk acceleration and the mean gravity acceleration in the time domain
 
-avgAngleTimeBodyGyroMeangravityMean		Degrees      -99.999999999999999	Numeric
+__avgAngleTimeBodyGyroMeangravityMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean body gyroscope acceleration and the mean gravity acceleration in the time domain
 
-avgAngleTimeBodyGyroJerkMeangravityMean	Degrees      -99.999999999999999	Numeric
+__avgAngleTimeBodyGyroJerkMeangravityMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean body gyroscope jerk acceleration and the mean gravity acceleration in the time domain
 
-avgAngleXgravityMean		Degrees      -99.999999999999999	Numeric
+__avgAngleXgravityMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean gravity acceleration in the time domain on the X axis
 
-avgAngleYgravityMean		Degrees      -99.999999999999999	Numeric
+__avgAngleYgravityMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean gravity acceleration in the time domain on the Y axis
 
-avgAngleZgravityMean		Degrees      -99.999999999999999	Numeric
+__avgAngleZgravityMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the angle of the mean gravity acceleration in the time domain on the Z axis
