@@ -209,122 +209,121 @@ Average of the means of the time domain of the body gyroscope jerk signal magnit
 __avgTimeBodyGyroJerkMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signal magnitude
 
-avgFreqBodyAccMeanX		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyAccMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration on the X axis
 
-avgFreqBodyAccMeanY		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyAccMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration on the Y axis
 
-avgFreqBodyAccMeanZ		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration on the Z axis
 
-avgFreqBodyAccStdevX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration on the X axis
 
-avgFreqBodyAccStdevY		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration on the Y axis
 
-avgFreqBodyAccStdevZ		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyAccStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration on the Z axis
 
-avgFreqBodyAccMeanFreqX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccMeanFreqX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration frequency on the X axis
 
-
-
-avgFreqBodyAccMeanFreqY		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyAccMeanFreqY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration frequency on the Y axis
 
-avgFreqBodyAccMeanFreqZ		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccMeanFreqZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration frequency on the Z axis
 
-avgFreqBodyAccJerkMeanX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signals on the X axis
 
-avgFreqBodyAccJerkMeanY		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyAccJerkMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signals on the Y axis
 
-avgTimeBodyAccJerkMeanZ		Hz	  -99.999999999999999	Numeric
+__avgTimeBodyAccJerkMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signals on the Z axis
 
-avgFreqBodyAccJerkStdevX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration jerk signals on the X axis
 
-avgFreqBodyAccJerkStdevY		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration jerk signals on the Y axis
 
-avgFreqBodyAccJerkStdevZ		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration jerk signals on the Z axis
-avgFreqBodyAccJerkMeanFreqX	Hz	 -99.999999999999999	Numeric
+
+__avgFreqBodyAccJerkMeanFreqX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signal frequency on the X axis
 
-avgFreqBodyAccJerkMeanFreqY	Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkMeanFreqY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signal frequency on the Y axis
 
-avgFreqBodyAccJerkMeanFreqZ	Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkMeanFreqZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signal frequency on the Z axis
 
-avgFreqBodyGyroMeanX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signals on the X axis
 
-avgFreqBodyGyroMeanY		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signals on the Y axis
 
-avgFreqBodyGyroMeanZ		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyGyroMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signals on the Z axis
 
-avgFreqBodyGyroStdevX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body gyroscope signals on the X axis
 
-avgFreqBodyGyroStdevY		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyGyroStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body gyroscope signals on the Y axis
-avgFreqBodyGyroStdevZ		Hz	 -99.999999999999999	Numeric
+
+__avgFreqBodyGyroStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body gyroscope signals on the Z axis
 
-avgFreqBodyGyroMeanFreqX		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMeanFreqX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signal frequency on the X axis
 
-avgFreqBodyGyroMeanFreqY		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMeanFreqY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signal frequency on the Y axis
 
-avgFreqBodyGyroMeanFreqZ		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMeanFreqZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signal frequency on the Z axis
 
-avgFreqBodyAccMagMean		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration signal magnitude
 
-avgFreqBodyAccMagStdev		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration signal magnitude 
 
-avgFreqBodyAccMagMeanFreq	Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccMagMeanFreq__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration signal magnitude frequency
 
-
-
-AvgFreqBodyAccJerkMagMean		Hz	  -99.999999999999999	Numeric
+__AvgFreqBodyAccJerkMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration signal magnitude frequency
 
-avgFreqBodyAccJerkMagStdev		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyAccJerkMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body acceleration signal magnitude frequency
 
-avgFreqBodyAccJerkMagMeanFreq		Hz	  -99.999999999999999	Numeric
+__avgFreqBodyAccJerkMagMeanFreq__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body acceleration jerk signal magnitude frequency
 
-avgFreqBodyGyroMagMean		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signal magnitude
 
-avgFreqBodyGyroMagStdev		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body gyroscope signal magnitude
 
-avgFreqBodyGyroMagMeanFreq		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroMagMeanFreq__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope signal magnitude frequency
 
-avgFreqBodyGyroJerkMagMean		Hz	 -99.999999999999999	Numeric
+__avgFreqBodyGyroJerkMagMean__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope jerk signal magnitude
 
-avgFreqBodyGyroJerkMagStdev		Hz	-99.999999999999999	Numeric
+__avgFreqBodyGyroJerkMagStdev__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the frequency domain of the body gyroscope jerk signal magnitude
-avgFreqBodyGyroJerkMagMeanFreq		Hz	 -99.999999999999999	Numeric
+
+__avgFreqBodyGyroJerkMagMeanFreq__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the frequency domain of the body gyroscope jerk signal magnitude frequency
 
 __avgAngleTimeBodyAccMeangravity__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degrees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
