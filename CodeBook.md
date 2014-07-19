@@ -10,7 +10,7 @@ The data for this study was extracted from the Human Activity Recognition Using 
 
 The original dataset was developed by:
 
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Universit+ degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Universit‡ degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
 
 An R language program was used to combine the test and training datasets to create a single dataset containing all mean and standard deviation measurement columns from the original dataset. Each row of measurements was linked to the activity and subject number that generated the data. The measurements were averaged for each activity and subject combination. The final tidy data file contains the average of each measurement for each activity and subject combination.
 
