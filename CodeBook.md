@@ -74,7 +74,7 @@ __Sortedagg__ - data frame - Used to contain the rows from the aggdata data fram
 __inActivityLabels__ - data frame - Used to contain the content of the activity_labels.txt dataset when it is read into the program
     
 &nbsp;&nbsp;&nbsp;   
-#### tidyagg.txt dataset data elements:
+#### tidyagg.txt Dataset Data Elements:
 
 __Activity__ - Character Factor variable   
 Six possible values representing the activities being performed by the study subjects   
