@@ -27,7 +27,7 @@ The run_analysis.R program uses the following data transformations to produce th
 
 &nbsp;&nbsp;&nbsp;   
 ### Code Book
-&nbsp;&nbsp;&nbsp;   
+      
 #### Work Variables:
 
 __infeature data frame__ - Used to contain the content of the features.txt dataset when it is read into the program 
