@@ -10,14 +10,14 @@ The data for this study was extracted from the Human Activity Recognition Using 
 
 The original dataset was developed by:
 
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Universit� degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Universit+ degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
 
 An R language program was used to combine the test and training datasets to create a single dataset containing all mean and standard deviation measurement columns from the original dataset. Each row of measurements was linked to the activity and subject number that generated the data. The measurements were averaged for each activity and subject combination. The final tidy data file contains the average of each measurement for each activity and subject combination.
 
 The run_analysis.R program uses the following data transformations to produce the tidy data file with the average values for each activity and subject combination. The aggregated data frame was written to a text file.
 
 1. More legible column names were produced by removing the special characters from the original names in the features.txt file and converting the names to CamelCase format; names were also modified to indicate that average data values of the final tidy data file 
-2. Columns that do not have "mean"" or "std" in the feature name, ignoring case, were eliminated from the data
+2. Columns that do not have "mean" or "std" in the feature name, ignoring case, were eliminated from the data
 3. Associated subject number and activity numbers were attached to each row of mean and standard deviation data.
 4. All rows from the test data and the training data were combined into one set of data
 5. The data was sorted by activity number and subject number
