@@ -92,86 +92,88 @@ Identifies the subject who performed the activity, (ranges from 1 to 30)
 __avgTimeBodyAccMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration on the X axis
 
-__avgTimeBodyAccMeanY__	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration on the Y axis
 
-__avgTimeBodyAccMeanZ__	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration on the Z axis
 
-avgTimeBodyAccStdevX	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration on the X axis
 
-avgTimeBodyAccStdevY	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration on the Y axis
-avgTimeBodyAccStdevZ	Seconds      -99.999999999999999	Numeric
+
+__avgTimeBodyAccStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration on the Z axis
 
-avgTimeGravityAccMeanX	Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the gravity acceleration on the X axis
 
-avgTimeGravityAccMeanY	Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the gravity acceleration on the Y axis
 
-avgTimeGravityAccMeanZ	Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the gravity acceleration on the Z axis
 
-avgTimeGravityAccStdevX	Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the gravity acceleration on the X axis
 
-avgTimeGravityAccStdevY	Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the gravity acceleration on the Y axis
 
-avgTimeGravityAccStdevZ	Seconds      -99.999999999999999	Numeric
+__avgTimeGravityAccStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the gravity acceleration on the Z axis
 
-avgTimeBodyAccJerkMeanX	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration jerk signals on the X axis
 
-avgTimeBodyAccJerkMeanY	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration jerk signals on the Y axis
-avgTimeBodyAccJerkMeanZ	Seconds      -99.999999999999999	Numeric
+
+__avgTimeBodyAccJerkMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration jerk signals on the Z axis
 
-avgTimeBodyAccJerkStdevX	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration jerk signals on the X axis
 
-avgTimeBodyAccJerkStdevY	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration jerk signals on the Y axis
 
-avgTimeBodyAccJerkStdevZ	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccJerkStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body acceleration jerk signals on the Z axis
 
-avgTimeBodyGyroMeanX	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope signals on the X axis
 
-avgTimeBodyGyroMeanY	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope signals on the Y axis
 
-avgTimeBodyGyroMeanZ	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope signals on the Z axis
 
-avgTimeBodyGyroStdevX	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroStdevX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope signals on the X axis
 
-avgTimeBodyGyroStdevY	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroStdevY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope signals on the Y axis
 
-avgTimeBodyGyroStdevZ	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroStdevZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric
 Average of the standard deviations of the time domain of the body gyroscope signals on the Z axis
 
-avgTimeBodyGyroJerkMeanX		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope jerk signals on the X axis
 
-avgTimeBodyGyroJerkMeanY		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkMeanY__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope jerk signals on the Y axis
 
-avgTimeBodyGyroJerkMeanZ		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkMeanZ__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body gyroscope jerk signals on the Z axis
 
-avgTimeBodyGyroJerkStdevX		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkStdevX	__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signals on the X axis
 
-avgTimeBodyGyroJerkStdevY		Seconds      -99.999999999999999	Numeric
+__avgTimeBodyGyroJerkStdevY	__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the standard deviations of the time domain of the body gyroscope jerk signals on the Y axis
 
 avgTimeBodyGyroJerkStdevZ		Seconds      -99.999999999999999	Numeric
