@@ -2,6 +2,7 @@
 Code Book for Smart Phone Related Human Activity Recognition Data Extract
 --------------
 
+&nbsp;&nbsp;&nbsp;   
 ### Study Design
 
 
@@ -24,10 +25,9 @@ The run_analysis.R program uses the following data transformations to produce th
 7. Activity numbers were converted to literal activity descriptions based upon the activity label data provided in the original data
 8. The subject column data type was converted to factor
 
-
+&nbsp;&nbsp;&nbsp;   
 ### Code Book
-
-
+&nbsp;&nbsp;&nbsp;   
 #### Work Variables:
 
 __infeature data frame__ - Used to contain the content of the features.txt dataset when it is read into the program 
@@ -73,7 +73,7 @@ __Sortedagg__ - data frame - Used to contain the rows from the aggdata data fram
 
 __inActivityLabels__ - data frame - Used to contain the content of the activity_labels.txt dataset when it is read into the program
     
-    
+&nbsp;&nbsp;&nbsp;   
 #### tidyagg.txt dataset data elements:
 
 __Activity__ - Character Factor variable   
