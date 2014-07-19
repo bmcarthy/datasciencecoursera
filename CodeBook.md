@@ -1,124 +1,101 @@
+
 Code Book for Smart Phone Related Human Activity Recognition Data Extract
+--------------
 
-Study Design
+### Study Design
 
-The data for this study was extracted from the Human Activity Recognition Using Smartphones Dataset, which was doanloaded from: 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The data for this study was extracted from the Human Activity Recognition Using Smartphones Dataset, which was doanloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The original dataset was developed by:
 
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit� degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws
-www.smartlab.ws
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Universit� degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
 
-An R language program was used to combine the test and training datasets to create a single dataset containing all mean and standard deviation measurement columns from the original dataset.  Each row of measurements was linked to the activity and subject number that generated the data. The measurements were averaged for each activity and subject combination.  The final tidy data file contains the average of each measurement for each activity and subject combination.  
+An R language program was used to combine the test and training datasets to create a single dataset containing all mean and standard deviation measurement columns from the original dataset. Each row of measurements was linked to the activity and subject number that generated the data. The measurements were averaged for each activity and subject combination. The final tidy data file contains the average of each measurement for each activity and subject combination.
 
-The run_analysis.R program uses the following  data transformations to produce the tidy data file with the average values for each activity and subject combination.  The aggregated data frame was written to a text file.
+The run_analysis.R program uses the following data transformations to produce the tidy data file with the average values for each activity and subject combination. The aggregated data frame was written to a text file.
 
-1. More legible column names were produced by removing the special characters from the original names in the features.txt file and converting the names to CamelCase format; names were also modified to indicate that average data values of the final tidy data file
-2. Columns that do not have �mean� or �std� in the feature name, ignoring case, were eliminated from the data
+1. More legible column names were produced by removing the special characters from the original names in the features.txt file and converting the names to CamelCase format; names were also modified to indicate that average data values of the final tidy data file 
+2. Columns that do not have "mean"" or "std" in the feature name, ignoring case, were eliminated from the data
 3. Associated subject number and activity numbers were attached to each row of mean and standard deviation data.
 4. All rows from the test data and the training data were combined into one set of data
-5. The data was sorted by activity number and subject number 
+5. The data was sorted by activity number and subject number
 6. The data was aggregated to calculate the average value for each activity and subject combination
 7. Activity numbers were converted to literal activity descriptions based upon the activity label data provided in the original data
 8. The subject column data type was converted to factor
 
-Code Book
+
+### Code Book
 
 
-Work Variables:
+#### Work Variables:
 
-infeature	data frame   
-		Used to contain the content of the features.txt dataset when it is read into the 		program
-		V1	Integer variable - contains the row name
-		V2	Character Factor variable � contains the feature names for the data
+__infeature data frame__ - Used to contain the content of the features.txt dataset when it is read into the program 
+* V1 Integer variable - contains the row name 
+* V2 Character Factor variable - contains the feature names for the data
 
-outfeature	Character vector 
-		Used to contain the modified, more legible, feature names 
+__outfeature__ - Character vector - Used to contain the modified, more legible, feature names
 
-grepmean	Integer vector
-		Used to contain index values of the feature names in outfeature, which are for 		mean values
+__grepmean__ - Integer vector - Used to contain index values of the feature names in outfeature, which are for mean values
 
-grepstd 	Integer vector
-		Used to contain index values of the feature names in outfeature, which are for 		standard deviation values
+__grepstd__ - Integer vector - Used to contain index values of the feature names in outfeature, which are for standard deviation values
 
-meanstd	Integer vector
-		Used to contain combined index values from grepmean and grepstd, sorted in 		ascending numeric order
+__meanstd__ - Integer vector - Used to contain combined index values from grepmean and grepstd, sorted in ascending numeric order
 
-inStest 	data frame   
-		Used to contain the content of the subject_test.txt dataset when it is read into the 		program, the values represent the identifiers for the subjects in the study
+__inStest__ - data frame - Used to contain the content of the subject_test.txt dataset when it is read into the program, the values represent the identifiers for the subjects in the study
 
-inXtest 	data frame   
-		Used to contain the content of the X_test.txt dataset when it is read into the 			program
+__inXtest__ - data frame - Used to contain the content of the X_test.txt dataset when it is read into the program
 
-inXtestmeanstd	data frame   
-		Used to contain the columns from inXtest which match the index values in the 		meanstd vector
+__inXtestmeanstd__ - data frame - Used to contain the columns from inXtest which match the index values in the meanstd vector
 
-inYtest 	data frame   
-		Used to contain the content of the Y_test.txt dataset when it is read into the 			program, the values represent the identifiers for the activities in the study
+__inYtest__ - data frame - Used to contain the content of the Y_test.txt dataset when it is read into the program, the values represent the identifiers for the activities in the study
 
-cbindtest 	data frame   
-		Used to contain the bound columns from inYtest, inStest, and inXtestmeanstd, 		data frames 
+__cbindtest__ - data frame - Used to contain the bound columns from inYtest, inStest, and inXtestmeanstd, data frames
 
-inStrain 	data frame   
-		Used to contain the content of the subject_train.txt dataset when it is read into 		the program, the values represent the identifiers for the subjects in the study
+__inStrain__ - data frame - Used to contain the content of the subject_train.txt dataset when it is read into the program, the values represent the identifiers for the subjects in the study
 
-inXtrain 	data frame   
-		Used to contain the content of the X_train.txt dataset when it is read into the 			program
+__inXtrain__ - data frame - Used to contain the content of the X_train.txt dataset when it is read into the program
 
-inXtrainmeanstd 	data frame   
-		Used to contain the columns from inXtrain which match the index values in the 		meanstd vector
+__inXtrainmeanstd__ - data frame - Used to contain the columns from inXtrain which match the index values in the meanstd vector
 
+__inYtrain__ - data frame - Used to contain the content of the Y_train.txt dataset when it is read into the program, the values represent the identifiers for the activities in the study
 
+__cbindtrain__ - data frame - Used to contain the bound columns from inYtrain, inStrain, and inXtrainmeanstd, data frames
 
-inYtrain 	data frame   
-		Used to contain the content of the Y_train.txt dataset when it is read into the 			program, the values represent the identifiers for the activities in the study
+__rbindall__ - data frame - Used to contain the bound rows from cbindtest and cbindtrain data frames
 
-cbindtrain 	data frame   
-		Used to contain the bound columns from inYtrain, inStrain, and inXtrainmeanstd, 		data frames 
+__allsorted__ - data frame - Used to contain the bound rows from the rbindall data frame sorted in ascending order by activity type number and subject number
 
-rbindall 	data frame   
-		Used to contain the bound rows from cbindtest and cbindtrain data frames 
+__aggdata__ - data frame - 
+Used to contain the aggregated data from the rbindall data frame, the data is aggregated by activity number and subject number, data values are averaged via the mean function
 
-allsorted 	data frame   
-		Used to contain the bound rows from the rbindall data frame sorted in ascending 		order by activity type number and subject number
+__Sortedagg__ - data frame - Used to contain the rows from the aggdata data frame sorted in ascending order by activity type number and subject number
 
-aggdata 	data frame   
-		Used to contain the aggregated data from the rbindall data frame, the data is 			aggregated by activity number and subject number, data values are averaged via 		the mean function
+__inActivityLabels__ - data frame - Used to contain the content of the activity_labels.txt dataset when it is read into the program
+    
+    
+#### tidyagg.txt dataset data elements:
 
-Sortedagg 	data frame   
-		Used to contain the rows from the aggdata data frame sorted in ascending 			order by activity type number and subject number
+__Activity__ - Character Factor variable   
+Six possible values representing the activities being performed by the study subjects   
 
-inActivityLabels 	data frame   
-		Used to contain the content of the activity_labels.txt dataset when it is read into 		the program
-
-
-
-tidyagg.txt dataset data elements:
-
-Activity	Character Factor variable 
-		Six possible values representing the activities being 	performed by the 			study subjects
-1. WALKING
-2. WALKING_UPSTAIRS
-3. WALKING_DOWNSTAIRS
-4. SITTING
-5. STANDING
+1. WALKING 
+2. WALKING_UPSTAIRS 
+3. WALKING_DOWNSTAIRS 
+4. SITTING 
+5. STANDING 
 6. LAYING
 
-Subject	1	Numeric
-		Identifies the subject who performed the activity, (ranges from 1 to 30)
+__Subject__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric  
+Identifies the subject who performed the activity, (ranges from 1 to 30)
 
-avgTimeBodyAccMeanX	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMeanX__ - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-99.999999999999999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeric   
 Average of the means of the time domain of the body acceleration on the X axis
 
-avgTimeBodyAccMeanY	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMeanY__	Seconds      -99.999999999999999	Numeric
 Average of the means of the time domain of the body acceleration on the Y axis
 
-avgTimeBodyAccMeanZ	Seconds      -99.999999999999999	Numeric
+__avgTimeBodyAccMeanZ__	Seconds      -99.999999999999999	Numeric
 Average of the means of the time domain of the body acceleration on the Z axis
 
 avgTimeBodyAccStdevX	Seconds      -99.999999999999999	Numeric
